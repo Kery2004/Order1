@@ -13,6 +13,10 @@ public class main {
 		int suma = lista.get(i-1).getPrice();
 		suma += lista.get(i).getPrice();
 		System.out.println(suma);
+		
+		int aaaaa;
+		
+		
 	}
 
 }
