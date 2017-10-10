@@ -1,8 +1,8 @@
 
 public class Cuisines {
 
-	String Name;
-	int Price;
+	private String Name;
+	private int Price;
 
 	// Constructor with 1 argument
 	public Cuisines(String dishname) {
