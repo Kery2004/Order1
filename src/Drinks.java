@@ -1,4 +1,4 @@
-
+//class for drink object
 public class Drinks {
 
 	private String Name;

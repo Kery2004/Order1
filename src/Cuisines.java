@@ -1,4 +1,4 @@
-
+//polimorph base class
 public class Cuisines {
 
 	private String Name;
