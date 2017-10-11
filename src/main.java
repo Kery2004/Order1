@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+//Food ordering system for X-fundation by Jakub Œwi¹tek
+
 public class main {
 
 	// method readfrouser is reading a data from user and checking it
